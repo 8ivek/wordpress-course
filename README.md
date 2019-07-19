@@ -1,15 +1,13 @@
 # Wordpress Course
 - How do a website work?
-
-> Homework 1: Visit a website and list out the features of the website
-
-- Request and response diagram
-
-  - DNS
-
+  - Request and response diagram
+  - Client server architecture
+  - Routing
+  - DNS (Domain Name System) as phone book of internet
   - explain difference between http and https, ftp, sftp.
-  - protocol
+  - Protocol
   - encryption / decryption: explain basic form of encryption
+> Homework 1: Visit a website and list out the features of the website
 
 - what is a Database? how database works?
 
