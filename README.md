@@ -1,4 +1,4 @@
-# Advanced Wordpress Course
+# Wordpress Course
 - How do a website work?
 
 > Homework 1: Visit a website and list out the features of the website
