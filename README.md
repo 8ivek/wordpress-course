@@ -1,4 +1,4 @@
-# Basic Wordpress Course
+# Advanced Wordpress Course
 - How do a website work?
 
 > Homework 1: Visit a website and list out the features of the website
@@ -17,9 +17,8 @@
 
 - Show them a sample school database with tables (student, subject, student_marks)
 
-  > Homework 1: Write a table structure for school
-  >
-  > tbl_students, tbl_subject, tbl_student_marks
+> Homework 1: Write a table structure for school
+> tbl_students, tbl_subject, tbl_student_marks
 
 ### XAMPP
 
